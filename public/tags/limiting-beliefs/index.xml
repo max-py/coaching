@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Limiting Beliefs on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/limiting-beliefs/</link>
+    <description>Recent content in Limiting Beliefs on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/limiting-beliefs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Intersection of Mindfulness and Personal Growth: How to Build a Fulfilling Life</title>
       <link>http://localhost:1313/post/mindfulness-and-personal-growth/</link>
