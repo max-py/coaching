@@ -1,0 +1,38 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: ""
+  
+  - image: "images/potential3.png"
+    #pretitle: "Portfolio Service"
+    title: "Are you struggling to find inspiration in your own thoughts?"
+    text: "Dealing with difficult situations, people, emotions; working on a goal; making a big decision. I help clients navigate their inner thoughts and feelings, discover hidden sources of inspiration, and unlock their full creative potential."
+
+    buttons: 
+      - label: "Find Out How I Can Help"
+        url: "/before-we-start"
+
+  #- image: "images/portfolio-ecommerce.png"
+  #  pretitle: "Portfolio Service"
+  #  title: "We developed an eCommerce website"
+  #  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+  #  buttons: 
+  #    - label: "See live"
+  #      url: "#"
+
+  #    - label: "Read more"
+  #      url: "#"
+
+  #- image: "images/portfolio-ecommerce.png"
+  #  pretitle: "Portfolio Service"
+  #  title: "We developed an eCommerce website"
+  #  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+  #  buttons: 
+  #    - label: "See live"
+  #      url: "#"
+
+  #    - label: "Read more"
+  #      url: "#"

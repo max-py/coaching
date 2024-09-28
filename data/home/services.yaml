@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "How do we get started?"
+  #text: "Here is how we are going to proceed:"
+  cards:
+    - image: "images/icon-blue-1.png"
+      title: "Book a Discovery Call"
+      text: "Spend up to one hour together exploring your coaching needs. We will have 20 minutes of coaching to see if we're a good match."
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/icon-blue-2.png"
+      title: "Start Coaching"
+      text: "My coaching is tailored to your needs. You decide how many sessions you want, their duration, and the timeline that works best for you."
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/icon-blue-3.png"
+      title: "Discover Your Potential"
+      text: "Coaching is about asking thought-provoking questions that lead to magical ‘ah ha’ moments. You have the answers. My role is to help you discover them."
+      button:
+        label: "Learn more"
+        url: "#"

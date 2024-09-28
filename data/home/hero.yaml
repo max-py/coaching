@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Maxime **Py**"
+  text: "As your compassionate, positive, open and adventurous thought partner, I am here to help you flourish. Together, we will navigate towards enhanced performance and lasting well-being."
+
+  buttonPrimary:
+    label: "Discover how"
+    url: "/before-we-start"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: "https://calendar.app.google/aLnsG15Jx67g9tFT6"
+

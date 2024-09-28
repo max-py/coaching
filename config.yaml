@@ -1,0 +1,87 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Maxime Py Coaching"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Maxime Py"
+  description: "I am here to help you flourish. Together, we will navigate towards enhanced performance and lasting well-being."
+  images: 
+    - "images/max-hp.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    instagram: "https://www.instagram.com/mpy.coach/"
+    linkedin: "https://www.linkedin.com/in/maxpy/"
+
+  location:
+    - "Singapore"
+
+  contact:
+    - "https://t.me/PyMaxime"
+
+  copyright: "© 2024 Maxime Py All Rights Reserved"
+
+menus:
+  main:
+    #- name: "Home"
+    #  url: "/"
+    #  weight: 1
+
+    - name: "Before we start"
+      url: "/before-we-start"
+      weight: 2
+
+    - name: "About"
+      url: "/about"
+      weight: 3
+
+    #- name: "Pricing"
+    #  url: "/#"
+    #  weight: 4
+
+    - name: "Articles"
+      url: "/articles"
+      weight: 5
+
+  buttons:
+    - name: "Book a discovery call"
+      url: "https://calendar.app.google/aLnsG15Jx67g9tFT6"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    #- name: "Home"
+    #  url: "/"
+    #  weight: 1
+
+    - name: "Before we start"
+      url: "/before-we-start"
+      weight: 2
+
+    - name: "About"
+      url: "/about"
+      weight: 3
+
+    #- name: "Pricing"
+    #  url: "/#"
+    #  weight: 4
+
+    - name: "Articles"
+      url: "/articles"
+      weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"
