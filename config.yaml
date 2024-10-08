@@ -56,7 +56,7 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Book a discovery call"
+    - name: "Book a free discovery call"
       url: "https://calendar.app.google/aLnsG15Jx67g9tFT6"
       weight: 5
       pre: "btn btn-primary text-light"

@@ -6,7 +6,7 @@ content:
   #text: "Here is how we are going to proceed:"
   cards:
     - image: "images/icon-blue-1.png"
-      title: "Book a Discovery Call"
+      title: "Book a Free Discovery Call"
       text: "Spend up to one hour together exploring your coaching needs. We will have 20 minutes of coaching to see if we're a good match."
       button:
         label: "Learn more"
